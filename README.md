@@ -1,7 +1,7 @@
 place IDS:
 general things - all
 
-custom things for:
+custom things for: (VH2 & VH2R, Lab Breakout, monke game, sword battles)
 
 10201298018
 
