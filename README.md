@@ -1,4 +1,7 @@
 place IDS:
+general things - all
+
+custom things for:
 
 10201298018
 
