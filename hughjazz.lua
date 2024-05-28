@@ -1,7 +1,7 @@
 -- I Watched the Sun Explode, and in Splendor, Contemplated Existence
 -- https://fatherfiguretx.bandcamp.com/track/hugh-jazz
 if not funcs then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/6yNuiC9/sc-/main/funcs.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/6yNuiC9/scr/main/funcs.lua"))()
 end
 local getproperties=funcs.getproperties
 local cmds=getgenv().sus_cmds or {}
