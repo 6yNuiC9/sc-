@@ -547,10 +547,6 @@ end
 --]]
 --funcs.turtlespyload()
 getgenv().funcs_loaded = true
-local res=checkcaller('MeXx, Anjxyyy...')
-if typeof(res)=='Instance' then
-res:Fire('I <3 Ec2')
-end
 --[[for i,v in pairs(listfiles("funcsdependents")) do
 loadfile(v)()
 end--]]
